@@ -10,4 +10,5 @@ pom.xml.asc
 /.nrepl-port
 /.prepl-port
 .hgignore
+.idea
 .hg/
